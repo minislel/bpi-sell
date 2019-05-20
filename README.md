@@ -22,3 +22,4 @@
 * Systemy: Android oraz różne dystrybucje GNU/Linuxa
 * Wymiary: 92mmx60mm
 * Waga: 45g
+*emil zajebal ten towar*
